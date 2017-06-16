@@ -1,0 +1,12 @@
+C:\Users\Mark\Desktop\LocalChat\ClientApp\bin\Release\ClientApp.exe.config
+C:\Users\Mark\Desktop\LocalChat\ClientApp\bin\Release\ClientApp.exe
+C:\Users\Mark\Desktop\LocalChat\ClientApp\bin\Release\ClientApp.pdb
+C:\Users\Mark\Desktop\LocalChat\ClientApp\bin\Release\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Mark\Desktop\LocalChat\ClientApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mark\Desktop\LocalChat\ClientApp\bin\Release\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Mark\Desktop\LocalChat\ClientApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Mark\Desktop\LocalChat\ClientApp\obj\Release\ClientApp.ClientForm.resources
+C:\Users\Mark\Desktop\LocalChat\ClientApp\obj\Release\ClientApp.Properties.Resources.resources
+C:\Users\Mark\Desktop\LocalChat\ClientApp\obj\Release\ClientApp.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\LocalChat\ClientApp\obj\Release\ClientApp.exe
+C:\Users\Mark\Desktop\LocalChat\ClientApp\obj\Release\ClientApp.pdb

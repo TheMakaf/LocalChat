@@ -9,7 +9,7 @@ namespace ClientApp
     {
         private String UserName { get; set; }
         private IHubProxy HubProxy { get; set; }
-        const string ServerURI = "http://192.168.0.100:8080/signalr";
+        const string ServerURI = "http://localhost:8080/signalr";
         private HubConnection Connection { get; set; }
 
         public ClientForm()

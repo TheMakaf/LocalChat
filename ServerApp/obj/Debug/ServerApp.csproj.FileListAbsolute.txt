@@ -25,3 +25,29 @@ C:\Users\Mark\Desktop\Studiju darbs\LocalChat\LocalChat\ServerApp\bin\Debug\Micr
 C:\Users\Mark\Desktop\Studiju darbs\LocalChat\LocalChat\ServerApp\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Mark\Desktop\Studiju darbs\LocalChat\LocalChat\ServerApp\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Mark\Desktop\Studiju darbs\LocalChat\LocalChat\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\Mark\Desktop\LocalChat\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\Mark\Desktop\LocalChat\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Owin.dll
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\System.Web.Cors.dll
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Mark\Desktop\LocalChat\ServerApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mark\Desktop\LocalChat\ServerApp\obj\Debug\ServerApp.MainForm.resources
+C:\Users\Mark\Desktop\LocalChat\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\Users\Mark\Desktop\LocalChat\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
